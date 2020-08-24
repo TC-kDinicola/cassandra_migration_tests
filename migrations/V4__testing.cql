@@ -1,0 +1,1 @@
+INSERT INTO "cycling"."race_winners" ("race_name", "race_position", "cyclist_name") VALUES ('asdfasdfasdf grand prix', 3, 'asdfasdfasdf');
